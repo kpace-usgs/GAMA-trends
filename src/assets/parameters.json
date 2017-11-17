@@ -1,0 +1,193 @@
+[
+	{
+		"name": "Alkalinity (MG/L)",
+		"value": "00410",
+		"layer": 1
+	},
+	{
+		"name": "Aluminum (UG/L)",
+		"value": "01105",
+		"layer": 27
+	},
+	{
+		"name": "Antimony (UG/L)",
+		"value": "01097",
+		"layer": 26
+	},
+	{
+		"name": "Arsenic (UG/L)",
+		"value": "01002",
+		"layer": 11
+	},
+	{
+		"name": "Barium (UG/L)",
+		"value": "01007",
+		"layer": 12
+	},
+	{
+		"name": "Beryllium (UG/L)",
+		"value": "01012",
+		"layer": 13
+	},
+	{
+		"name": "Boron (UG/L)",
+		"value": "01020",
+		"layer": 14
+	},
+	{
+		"name": "Cadmium (UG/L)",
+		"value": "01027",
+		"layer": 15
+	},
+	{
+		"name": "Calcium (MG/L)",
+		"value": "00916",
+		"layer": 4
+	},
+	{
+		"name": "Chloride (MG/L)",
+		"value": "00940",
+		"layer": 8
+	},
+	{
+		"name": "Chromium (UG/L)",
+		"value": "01034",
+		"layer": 16
+	},
+	{
+		"name": "Copper (UG/L)",
+		"value": "01042",
+		"layer": 17
+	},
+	{
+		"name": "Fluoride (MG/L)",
+		"value": "00951",
+		"layer": 10
+	},
+	{
+		"name": "Gross Alpha",
+		"value": "01501",
+		"layer": 29
+	},
+	{
+		"name": "Gross Beta",
+		"value": "03501",
+		"layer": 30
+	},
+	{
+		"name": "Hardness (MG/L)",
+		"value": "00900",
+		"layer": 3
+	},
+
+	{
+		"name": "Iron (UG/L)",
+		"value": "01045",
+		"layer": 18
+	},
+	{
+		"name": "Lead (UG/L)",
+		"value": "01051",
+		"layer": 19
+	},
+	{
+		"name": "Nitrate (MG/L)",
+		"value": "71850",
+		"layer": 36
+	},
+	{
+		"name": "Nitrite (UG/L)",
+		"value": "00620",
+		"layer": 2
+	},
+	{
+		"name": "Magnesium (MG/L)",
+		"value": "00927",
+		"layer": 5
+	},
+	{
+		"name": "Manganese (UG/L)",
+		"value": "01055",
+		"layer": 20
+	},
+	{
+		"name": "Mercury (UG/L)",
+		"value": "71900",
+		"layer": 37
+	},
+	{
+		"name": "Nickel (UG/L)",
+		"value": "01067",
+		"layer": 22
+	},
+	{
+		"name": "pH, Lab",
+		"value": "00403",
+		"layer": 0
+	},
+	{
+		"name": "Potassium (MG/L)",
+		"value": "00937",
+		"layer": 7
+	},
+	{
+		"name": "Radium-226",
+		"value": "09501",
+		"layer": 31
+	},
+	{
+		"name": "Radium-228",
+		"value": "11501",
+		"layer": 32
+	},
+	{
+		"name": "Radium-226+228",
+		"value": "11503",
+		"layer": 33
+	},
+	{
+		"name": "Selenium (UG/L)",
+		"value": "01147",
+		"layer": 28
+	},
+	{
+		"name": "Silver (UG/L)",
+		"value": "01077",
+		"layer": 23
+	},
+	{
+		"name": "Sodium (MG/L)",
+		"value": "00929",
+		"layer": 6
+	},
+	{
+		"name": "Sulfate (MG/L)",
+		"value": "00945",
+		"layer": 9
+	},
+	{
+		"name": "Thallium (UG/L)",
+		"value": "01059",
+		"layer": 21
+	},
+	{
+		"name": "Total dissolved solids",
+		"value": "70300",
+		"layer": 35
+	},
+	{
+		"name": "Uranium (PCI/L)",
+		"value": "28012",
+		"layer": 34
+	},
+	{
+		"name": "Vanadium (UG/L)",
+		"value": "01087",
+		"layer": 24
+	},
+	{
+		"name": "Zinc (UG/L)",
+		"value": "01092",
+		"layer": 25
+	}
+]
